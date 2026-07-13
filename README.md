@@ -153,6 +153,6 @@ Registradas de forma honesta — este é um trabalho de disciplina, não uma eng
 
 ---
 
-## Licença
+## Autoria
 
-MIT — veja [LICENSE](LICENSE).
+Projeto desenvolvido para a disciplina de **Computação Gráfica** por João Guska e Lucas Colombani.
